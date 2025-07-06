@@ -5,3 +5,4 @@
 5. git commit
 6. git rm
 7. git status
+8. git diff
