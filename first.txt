@@ -3,3 +3,4 @@
 3. git pushがうまくいかないので、もう一度更新してみます。
 4. git add
 5. git commit
+6. git rm
