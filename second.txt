@@ -1,0 +1,3 @@
+second.txt
+
+training for git add/commit...
