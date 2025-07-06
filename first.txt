@@ -4,3 +4,4 @@
 4. git add
 5. git commit
 6. git rm
+7. git status
